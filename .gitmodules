@@ -1,3 +1,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/project-valhalla/data.git
+[submodule "source/vcpkg"]
+	path = source/vcpkg
+	url = https://github.com/Microsoft/vcpkg.git

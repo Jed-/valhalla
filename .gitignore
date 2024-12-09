@@ -16,9 +16,11 @@ Thumbs.db
 ehthumbs.db
 mingw.res
 bin_unix/
+source/build
 source/tess_client
 source/tess_master
 source/tess_server
+source/vcpkg_installed
 source/vcpp/x64/
 source/vcpp/x86/
 .objs/
